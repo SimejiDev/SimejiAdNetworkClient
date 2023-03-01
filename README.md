@@ -39,10 +39,10 @@ If you're new to CocoaPods, see their [official documentation](https://guides.co
 - `SANsdk.xcframework`
 
   Please change embed option to “Embed & Sign”, like this:
-  <img src="Snapshots/framework_embed_option.png" width="80%">    
+  <img src="Docs/Snapshots/framework_embed_option.png" width="80%">    
 
 1. Add the -ObjC linker flag to Other Linker Flags in your project's build settings:
-   <img src="Snapshots/objc_linker_flag.png" width="80%">
+   <img src="Docs/Snapshots/objc_linker_flag.png" width="80%">
 
 - `Admob Mediation Adapters`
 
