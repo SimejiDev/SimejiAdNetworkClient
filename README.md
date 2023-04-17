@@ -4,7 +4,7 @@
 
 - Use Xcode 12 or higher
 - Target iOS 9.0 or higher
-- Ask us for App ID and Placement IDs
+- [Ask us](mailto:simeji_account@baidu.com) for App ID and Placement IDs
 
 ## Import the Mobile Ads SDK
 
@@ -42,7 +42,7 @@ If you're new to CocoaPods, see their [official documentation](https://guides.co
   <img src="Docs/Snapshots/framework_embed_option.png" width="80%">    
 
 1. Add the -ObjC linker flag to Other Linker Flags in your project's build settings:
-   <img src="Docs/Snapshots/objc_linker_flag.png" width="80%">
+   <img src="Docs/Snapshots/objc_linker_flag.jpg" width="80%">
 
 - `Admob Mediation Adapters`
 
@@ -58,7 +58,7 @@ Update your app's Info.plist file to add two keys:
 
    ```xml
     <key>SANApplicationIdentifier</key>
-    <string>app-pub-demo-1000001</string>
+    <string>app-pub-demo-0000001</string>
     <key>SKAdNetworkItems</key>
     <array>
         <dict>
